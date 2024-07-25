@@ -1,8 +1,8 @@
 Section 1.0: Introduction
 Hello, and welcome to the Temperature Calculator application! With this piece of software, you can:
-  -Convert temperatures between celsius and fahrenheit.
-  -Save temperatures to a list to calculate the average and mode temperatures.
-  -View the aforementioned calculations along with a list of all the temperatures saved, all displayed in both celsius and fahrenheit.
+Convert temperatures between celsius and fahrenheit.
+Save temperatures to a list to calculate the average and mode temperatures.
+View the aforementioned calculations along with a list of all the temperatures saved, all displayed in both celsius and fahrenheit.
 This software is useful in scientific environments, as you can find the average temperature of a data set.
 
 Section 1.1: Entering temperatures
